@@ -11,4 +11,8 @@ public class GitController {
 		return su1 + su2;
 	}
 	
+	public String concatTest(String a, String b) {
+		return a+b;
+	}
+	
 }
