@@ -15,4 +15,9 @@ public class GitController {
 		return a+b;
 	}
 	
+	public double avgCalc(int a, int b, int c) {
+		return a+b+c/3.0;
+	}
+	
+	
 }
